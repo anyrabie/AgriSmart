@@ -1,1 +1,3 @@
-This is the ResNet model code
+This is the ResNet model codes
+the Train code
+the prediction code
